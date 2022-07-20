@@ -1,4 +1,4 @@
-package com.example.git.repository;
+package com.example.git.entity;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
